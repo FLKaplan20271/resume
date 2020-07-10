@@ -1,0 +1,38 @@
+/* style.css 
+created by Frank Kaplan
+created on July 9, 2020
+created for resume website
+*/
+
+@page { 
+     size: 6.5in 9in;
+     margin: 0.79in 
+     
+    }
+p { 
+    margin-bottom: 0.1in; 
+    line-height: 115%; 
+    background: transparent 
+
+}
+a:link { 
+    color:#000080;
+    text-decoration: underline 
+}
+
+body p{
+    margin-bottom: 0in;
+    line-height: 100%;
+    font: "Liberation Serif, serif";
+}
+
+span font p{
+    font-variant: normal;
+    font-style: normal;
+    text-decoration: none;
+    font-size: "3";
+    font-size: "12pt";
+    background: transparent;
+    line-height: 120%;
+    
+}
